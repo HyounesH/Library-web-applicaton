@@ -1,0 +1,10 @@
+ody {
+  padding-top: 10px;
+}
+[class*="col-"], footer {
+  background-color:lightblue;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}
